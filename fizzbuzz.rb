@@ -10,7 +10,7 @@ def fizzbuzz(x)
 end
 end
 
-fizzbuzz (15)
+fizzbuzz (6)
 
 # if a number is divisible by 3 and 5, return "fizzbuzz"
  # if a number is divisible by 5, return "buzz"
